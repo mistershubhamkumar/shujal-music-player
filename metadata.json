@@ -1,0 +1,6 @@
+{
+  "name": "Shujal Music",
+  "description": "Premium Android music player with Dynamic Island floating overlay, 3D album art, 10-band equalizer, offline & online streaming, smart auto playlists, and AI Music Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
